@@ -14,7 +14,7 @@
 
 <p align="center">
     Hi there!
-    I'm a builder who just likes checking out new things out there.
+    I'm a builder who just likes checking out new things.
 </p>
 
 <p align="center">
